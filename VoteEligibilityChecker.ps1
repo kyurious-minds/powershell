@@ -1,5 +1,5 @@
 # Prompt user for name
-$name = Read-Host "What is your name?"
+$name = Read-Host "What is your name ?"
 
 # Prompt user for age
 $age = Read-Host "How old are you, $name?"
