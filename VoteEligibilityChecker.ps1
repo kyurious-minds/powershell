@@ -9,7 +9,7 @@ $age = [int]$age
 
 # Check if user is eligible to vote
 if ($age -ge 18) {
-    Write-Host "Congratulations, $name! You are eligible to vote in 2024."
+    Write-Host "Congratulations, $name! You are eligible to vote in year 2024."
 } else {
-    Write-Host "Sorry, $name. You are not eligible to vote yet."
+    Write-Host "Sorry, $name. You are not eligible to vote."
 }
